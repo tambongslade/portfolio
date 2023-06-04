@@ -1,16 +1,28 @@
-import React from "react";
-import Header from './components/header/header';
-import Contact from "./components/contact/contact";
+import React from 'react'
+import Header from './components/header/Header'
+import Navbar from './components/navbar/Navbar'
+import About from './components/about/About'
+import Footer from './components/footer/Footer'
+import Experience from'./components/experience/Experience'
+import Portfolio from './components/portfolio/Portfolio'
+import Testimonial from './components/testimonial/Testimonial'
+import Contact from './components/contact/Contact'
 
 
+export const App = () => {
+  return (
+    <>
+ <Header/>
+ <Navbar/>
+ <About/>
+ <Experience/>
 
-
-export const APP = () =>{
-    return(
-       <>
-    <Header/>
-    <Contact/>
+ <Portfolio/>
+ <Testimonial/>
+ <Contact/>
+ <Footer/>
 
     </>
-    );
+    
+  )
 }
