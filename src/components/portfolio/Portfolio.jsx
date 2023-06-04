@@ -1,14 +1,14 @@
 import React from 'react'
 import './portfolio.css'
 import Portfolio1 from '../../assets/Portfolio1.png'
-import Portfolio2 from '../../assets/Portfolio2.png'
-import Portfolio3 from '../../assets/Portfolio3.png'
-import Portfolio4 from '../../assets/Portfolio4.png'
-import LMS from '../../assets/LMS.png'
-import solar from '../../assets/solar.png'
-import twitter from '../../assets/twitter.png'
-import basketball from '../../assets/basketball.png'
-import cats from '../../assets/cats.png'
+// import Portfolio2 from '../../assets/Portfolio2.png'
+// import Portfolio3 from '../../assets/Portfolio3.png'
+// import Portfolio4 from '../../assets/Portfolio4.png'
+// import LMS from '../../assets/LMS.png'
+// import solar from '../../assets/solar.png'
+// import twitter from '../../assets/twitter.png'
+// import basketball from '../../assets/basketball.png'
+// import cats from '../../assets/cats.png'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
