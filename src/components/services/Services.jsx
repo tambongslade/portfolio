@@ -11,38 +11,31 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Designer</h3>
+            <h3>Mobile development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>JAVA</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Experience</p>
+              <p>Kotlin</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Dart</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Flutter</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>React</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
-            </li>
+
           </ul>
         </article>
         {/* END OF UI/UX FIELD */}
@@ -54,23 +47,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Html</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Experience</p>
+              <p>CSS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>JAVASCRIPT</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>NODE JS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>React</p>
             </li>
          
           </ul>
@@ -78,17 +71,17 @@ const Services = () => {
             {/* WEB DEVELOPMENT ENDS*/}
          <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Desktop Development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>JAVAFX</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Experience</p>
+              <p>Electron JS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>

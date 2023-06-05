@@ -72,7 +72,13 @@ const Experience = () => {
               <small className='text-light'>Basic</small>
               </div>
             </article>
-            
+            <article className='experience__details'>
+              <BsPatchCheckFill />
+              <div>
+              <h4>JAVA</h4>
+              <small className='text-light'>Master</small>
+              </div>
+            </article>
            </div>
            </div>
          </div>

@@ -13,12 +13,12 @@
 
   :root {
      /* as root variable we can used it everywhere */
-    --color-bg:#1f1f38;
+    --color-bg:#614d54;
       /* used two(-) to declare css variable */
-    --color-bg-variant:#2c2c6c;
-    --color-primary:#4db5ff;
-    --color-primary-variant:rgba(77, 181, 255, 0.4);
-    --color-white:#fff;
+    --color-bg-variant:#d8aebd;
+    --color-primary:#d197ad;
+    --color-primary-variant:rgba(168, 104, 158, 0.4);
+    --color-white:#F9F5F6;
     --color-light:rgba(255, 255, 255, 0.6);
     --container-width-lg:75%;
     /*size of the container we are going to use on different*/
