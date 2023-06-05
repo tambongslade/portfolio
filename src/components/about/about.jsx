@@ -45,12 +45,8 @@ const About = () => {
       
       <div className='text'>
       <p>
-        Hi there. My name is Nyando Onongwene. I'm a computer engineering student at the 
-        Faculty of Engineering and Technology, University of Buea.
-       Thanks for visiting my profile.
-       I'm a ui/ux designer. I'm working on gaining more skills.
-       And also getting internships on this journey
-       Thank you
+        
+Welcome to my website As a highly skilled mobile and desktop developer, I specialize in creating cutting-edge applications that deliver exceptional user experiences. With expertise in both native and cross-platform development, I have the ability to bring your digital ideas to life across various platforms and devices. By combining my technical proficiency with a keen eye for user-centered design, I ensure that every application I develop is intuitive, visually appealing, and optimized for maximum engagement. Whether you need a sleek mobile app or a robust desktop solution, I am dedicated to delivering high-quality, custom-built applications that meet your unique requirements. Let's collaborate and transform your vision into a seamless and user-friendly reality
       </p>
       </div>
       <a href="#contact" className='btn btn-primary'>Let's talk</a>
