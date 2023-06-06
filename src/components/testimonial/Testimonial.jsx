@@ -18,21 +18,23 @@ const data = [
     {
       id: 1,
       review:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus est, consequatur illum ullam numquam voluptate necessitatibus sequi quidem obcaecati! Veritatis repellendus provident neque. Porro, id illum iure soluta vel alias, maiores tempora doloremque vitae neque maxime at, facilis ipsum molestiae dicta quasi harum optio atque deserunt quis amet consectetur perspiciatis.",
+        "I couldnt be happier with the mobile app developed by tambong. It exceeded all my expectations in terms of functionality and design. The teams expertise and attention to detail truly shone through, resulting in a user-friendly and visually stunning application. Not only did they deliver the project on time, but their ongoing support and dedication ensured a smooth launch. I highly recommen tambong for anyone looking for top-notch mobile and desktop development services. They truly brought my vision to life! ",
       avatar: T1,
       name: "Mbo Valentine",
     },
     {
       id: 2,
       review:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus est, consequatur illum ullam numquam voluptate necessitatibus sequi quidem obcaecati! Veritatis repellendus provident neque. Porro, id illum iure soluta vel alias, maiores tempora doloremque vitae neque maxime at, facilis ipsum molestiae dicta quasi harum optio atque deserunt quis amet consectetur perspiciatis.",
+      "I couldnt be happier with the mobile app developed by tambong. It exceeded all my expectations in terms of functionality and design. The teams expertise and attention to detail truly shone through, resulting in a user-friendly and visually stunning application. Not only did they deliver the project on time, but their ongoing support and dedication ensured a smooth launch. I highly recommen tambong for anyone looking for top-notch mobile and desktop development services. They truly brought my vision to life! ",
+       
       avatar: T2,
       name: "Mbah Elsie",
     },
     {
       id: 3,
       review:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus est, consequatur illum ullam numquam voluptate necessitatibus sequi quidem obcaecati! Veritatis repellendus provident neque. Porro, id illum iure soluta vel alias, maiores tempora doloremque vitae neque maxime at, facilis ipsum molestiae dicta quasi harum optio atque deserunt quis amet consectetur perspiciatis.",
+      "I couldnt be happier with the mobile app developed by tambong. It exceeded all my expectations in terms of functionality and design. The teams expertise and attention to detail truly shone through, resulting in a user-friendly and visually stunning application. Not only did they deliver the project on time, but their ongoing support and dedication ensured a smooth launch. I highly recommen tambong for anyone looking for top-notch mobile and desktop development services. They truly brought my vision to life! ",
+       
       avatar: T3,
       name: "Arrah Mbone",
     },
